@@ -6,6 +6,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/rahul-fakeeh?label=Follow&style=social)
 
+<p align="left"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/rahul-fakeeh/count.svg" />
+</p>
 
 ### 📫 Like to meet me?
 
